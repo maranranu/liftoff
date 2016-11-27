@@ -1,0 +1,32 @@
+Initial installation required:
+If you doesn't have nodejs, npm, bower in your machine then run command ./installation.sh
+
+Question explanation:
+Find out minimum/maximum temperature of day and find temperature variation with time for whole day
+
+Language used:
+Server: NodeJS
+Client: AngularJS
+Markup language: HTML
+
+Packages used:
+NodeJS: request, http, express, body-parser and underscore
+AngularJS: c3
+
+Script file:
+run.sh: To run the server, 
+./run.sh
+while installing client modules it asks for option then select 1 
+
+After that on your browser hit url http://localhost:3000
+
+External API used:
+http://api.openweathermap.org/data/2.5/forecast/city?id=1259229&APPID=a873764477c76454f42238c5ebf87e2e
+openweather API to get temperature of days in JSON format
+
+Operating system:
+Ubuntu (linux)
+
+
+
+

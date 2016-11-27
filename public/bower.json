@@ -1,0 +1,21 @@
+{
+  "name": "public",
+  "authors": [
+    "kamneemaran-innoplexus <kamnee.maran@innoplexus.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "c3-angularjs": "^1.0.0",
+    "c3": "^0.4.11"
+  }
+}
