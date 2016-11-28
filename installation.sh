@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Install git"
+sudo apt-get install git
+
 echo "Install nodejs"
 sudo apt-get install nodejs
 sudo apt-get install nodejs-legacy
